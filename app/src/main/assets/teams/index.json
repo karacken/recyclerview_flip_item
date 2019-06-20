@@ -1,0 +1,68 @@
+[
+  {
+    "country": "India",
+    "logo": "logo/in.png",
+    "theme_color": "#2255a4"
+  },
+  {
+    "country": "New Zealand",
+    "logo": "logo/nz.png",
+    "theme_color": "#000000"
+  },
+  {
+    "country": "Pakistan",
+    "logo": "logo/pak.png",
+    "theme_color": "#12453c"
+  },
+  {
+    "country": "England",
+    "logo": "logo/eng.png",
+    "theme_color": "#15295e"
+  },
+  {
+    "country": "Australia",
+    "logo": "logo/aus.png",
+    "theme_color": "#fbc02d"
+  },
+  {
+    "country": "South Africa",
+    "logo": "logo/sa.png",
+    "theme_color": "#0e793b"
+  },
+  {
+    "country": "New Zealand",
+    "logo": "logo/nz.png",
+    "theme_color": "#000000"
+  },
+  {
+    "country": "England",
+    "logo": "logo/eng.png",
+    "theme_color": "#15295e"
+  },
+
+  {
+    "country": "Bangladesh",
+    "logo": "logo/ban.png",
+    "theme_color": "#17481e"
+  },
+  {
+    "country": "West Indies",
+    "logo": "logo/wi.png",
+    "theme_color": "#790d19"
+  },
+  {
+    "country": "UAE",
+    "logo": "logo/uae.png",
+    "theme_color": "#890f00"
+  },
+  {
+    "country": "Afghanistan",
+    "logo": "logo/afg.png",
+    "theme_color": "#8b7031"
+  },
+  {
+    "country": "Ireland",
+    "logo": "logo/ire.png",
+    "theme_color": "#30742d"
+  },
+]
