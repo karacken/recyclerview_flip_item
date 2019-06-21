@@ -51,9 +51,6 @@ public class FlipLayoutManager extends LinearLayoutManager {
     }
 
 
-    private void initFlipHandler() {
-
-    }
 
     public void flip() {
         isFlipping=true;
