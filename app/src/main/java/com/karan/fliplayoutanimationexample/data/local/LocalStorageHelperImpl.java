@@ -13,8 +13,14 @@ import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.List;
 
+import javax.inject.Inject;
+import javax.inject.Singleton;
+
 public class LocalStorageHelperImpl implements LocalStorageHelper {
+
     private Context mContext;
+
+    @Inject
     public LocalStorageHelperImpl(Context context)
     {
      mContext=context;

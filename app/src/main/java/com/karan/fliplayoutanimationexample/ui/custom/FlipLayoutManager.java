@@ -31,6 +31,7 @@ public class FlipLayoutManager extends LinearLayoutManager {
         }
     });
 
+
     public FlipLayoutManager(Context context) {
         super(context);
         init(context);

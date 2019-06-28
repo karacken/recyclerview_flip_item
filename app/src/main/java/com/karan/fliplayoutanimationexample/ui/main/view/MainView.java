@@ -9,4 +9,5 @@ public interface MainView extends BaseView {
 
     void setCricketTeamList(List<CricketTeam> cricketTeams);
     void flipList();
+    void openDetailScreen(CricketTeam cricketTeam);
 }
